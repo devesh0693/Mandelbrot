@@ -42,8 +42,6 @@ The application follows a modular architecture designed for performance and main
 
 ### **System Architecture**
 
-<div align="center">
-
 ```mermaid
 graph TB
     A[User Input<br/>SDL2 Events] --> B[Navigation Controller]
@@ -64,11 +62,9 @@ graph TB
     style D fill:#f3e5f5
     style F fill:#e8f5e8
     style K fill:#fff3e0
-</div>
+```
 
 ### **Interactive Architecture Demo**
-
-<div align="center">
 
 ```mermaid
 sequenceDiagram
@@ -87,8 +83,6 @@ sequenceDiagram
     
     Note over Computer: OpenMP parallel<br/>processing across<br/>multiple CPU cores
 ```
-
-</div>
 
 ### **Computation Pipeline**
 
@@ -319,5 +313,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
+
+**Made with ❤️ for the mathematical community**
 
 </div>
