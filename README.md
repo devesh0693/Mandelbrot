@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Mandelbrot Set - Classic View]("D:\Devesh R\P\MandelBrot\images\mandelbrot_hero.png")
+![Mandelbrot Set - Classic View](images/mandelbrot_hero.png)
 
 **Explore the mesmerizing world of the Mandelbrot set with real-time parallel computation**
 
@@ -123,7 +123,7 @@ flowchart LR
 
 | Fire Palette | Electric Palette | Ocean/Grayscale Palette |
 |:------------:|:----------------:|:-----------------------:|
-| ![Fire Mandelbrot]("D:\Devesh R\P\MandelBrot\images\mandelbrot_fire.png.png") | ![Electric Mandelbrot]("D:\Devesh R\P\MandelBrot\images\mandelbrot_electric.png") | ![Grayscale Mandelbrot]("D:\Devesh R\P\MandelBrot\images\mandelbrot_grayscale.png" |
+| ![Fire Mandelbrot](images/mandelbrot_fire.png) | ![Electric Mandelbrot](images/mandelbrot_electric.png) | ![Grayscale Mandelbrot](images/mandelbrot_grayscale.png) |
 | *Classic red-orange gradient* | *Vibrant cyan-blue tones* | *Elegant monochrome* |
 
 </div>
@@ -134,7 +134,7 @@ flowchart LR
 
 | Overview | Medium Zoom | Deep Zoom |
 |:--------:|:-----------:|:---------:|
-| ![Mandelbrot Overview]("D:\Devesh R\P\MandelBrot\images\mandelbrot_overview.png") | ![Mandelbrot Medium]("D:\Devesh R\P\MandelBrot\images\mandelbrot_medium.png") | ![Mandelbrot Detail]("D:\Devesh R\P\MandelBrot\images\mandelbrot_detail.png") |
+| ![Mandelbrot Overview](images/mandelbrot_overview.png) | ![Mandelbrot Medium](images/mandelbrot_medium.png) | ![Mandelbrot Detail](images/mandelbrot_detail.png) |
 | *Full Mandelbrot set view* | *Exploring the boundary* | *Infinite fractal detail* |
 
 </div>
@@ -319,9 +319,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-
-**Made with ❤️ for mathematics and beautiful code**
-
-*"Clouds are not spheres, mountains are not cones, coastlines are not circles, and bark is not smooth, nor does lightning travel in a straight line." - Benoit Mandelbrot*
 
 </div>
