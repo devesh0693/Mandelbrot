@@ -293,10 +293,6 @@ We welcome contributions! Here's how you can help:
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **SDL2 Team** for the excellent multimedia library
@@ -304,13 +300,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Benoit Mandelbrot** for discovering this beautiful mathematical object
 - **Mathematical Community** for continued fractal research
 
-## 📞 Support
 
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/parallel-mandelbrot-explorer/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/parallel-mandelbrot-explorer/discussions)
-- 📧 **Contact**: your.email@example.com
-
----
 
 <div align="center">
 
