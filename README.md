@@ -303,7 +303,4 @@ We welcome contributions! Here's how you can help:
 
 
 <div align="center">
-
-**Made with ❤️ for the mathematical community**
-
 </div>
